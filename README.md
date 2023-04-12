@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Anand</h1>
 <h3 align="center">A passionate Deep Learning Engineer from India.</h3>
-<img aligh="center" alt="GIF Image" width="400" src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJmZTM2MWIzYTJiY2ZiYTI5M2Y1NTNlMmZiMzNlMmFiY2NhNTIzZiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imharshanand&label=Profile%20views&color=0e75b6&style=flat" alt="imharshanand" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imharshanand" alt="imharshanand" /></a> </p>
