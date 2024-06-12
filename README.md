@@ -75,13 +75,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imharshanand&show_icons=true&locale=en" alt="imharshanand" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imharshanand&" alt="imharshanand" /></p>
 
-<h3 align="left">Recent Blog Posts:</h3>
-<!-- BLOG-POST-LIST:START -->
-- [Understanding Attention Mechanisms in Neural Networks](https://medium.com/@anandharsh/understanding-attention-mechanisms-in-neural-networks)
-- [Building Efficient Convolutional Neural Networks](https://medium.com/@anandharsh/building-efficient-convolutional-neural-networks)
-- [Exploring Transfer Learning for NLP](https://medium.com/@anandharsh/exploring-transfer-learning-for-nlp)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Recent Projects:</h3>
 <ul>
   <li><a href="https://github.com/imharshanand/deeplabv3">Deeplab V3 1</a></li>
