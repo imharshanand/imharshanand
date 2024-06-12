@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Anand</h1>
-<h3 align="center">A passionate Deep Learning Engineer from India.</h3>
+<h3 align="center">A passionate Machine Learning Engineer.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imharshanand&label=Profile%20views&color=0e75b6&style=flat" alt="imharshanand" />
@@ -11,7 +11,11 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Deep Learning Projects**
+- 🔭 I’m currently working on **ML Projects**
+- 👯 I’m looking to collaborate on **Open Source AI Projects**
+- 💬 Ask me about **Machine Learning, Deep Learning, and Python**
+- 📫 How to reach me **harsh19anand@gmail.com**
+- ⚡ Fun fact **I love coding and playing Tactical-FPS PC games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -66,8 +70,24 @@
   </a>
 </p>
 
+<h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imharshanand&show_icons=true&locale=en&layout=compact" alt="imharshanand" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imharshanand&show_icons=true&locale=en" alt="imharshanand" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imharshanand&" alt="imharshanand" /></p>
+
+<h3 align="left">Recent Blog Posts:</h3>
+<!-- BLOG-POST-LIST:START -->
+- [Understanding Attention Mechanisms in Neural Networks](https://medium.com/@anandharsh/understanding-attention-mechanisms-in-neural-networks)
+- [Building Efficient Convolutional Neural Networks](https://medium.com/@anandharsh/building-efficient-convolutional-neural-networks)
+- [Exploring Transfer Learning for NLP](https://medium.com/@anandharsh/exploring-transfer-learning-for-nlp)
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Recent Projects:</h3>
+<ul>
+  <li><a href="https://github.com/imharshanand/deeplabv3">Deeplab V3 1</a></li>
+  <li><a href="https://github.com/imharshanand/unet">U-Net</a></li>
+</ul>
+
+<p align="left">
+  <a href="https://github.com/imharshanand?tab=repositories"><img src="https://img.shields.io/github/followers/imharshanand?label=Follow&style=social" alt="follow"></a>
+</p>
