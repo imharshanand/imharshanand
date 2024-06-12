@@ -8,9 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/imharshanand" target="blank"><></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/imharshanand/" target="blank"><></a>
-<a href="https://medium.com/https://medium.com/@anandharsh" target="blank"><></a>
+<a href="https://twitter.com/https://twitter.com/imharshanand" target="blank">https://twitter.com/imharshanand</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/imharshanand/" target="blank">https://www.linkedin.com/in/imharshanand/</a>
+<a href="https://medium.com/https://medium.com/@anandharsh" target="blank">https://medium.com/@anandharsh</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
